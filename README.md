@@ -5,6 +5,6 @@ Due to issues faced whlie publishing this project i need to de structre the proj
  
 # The link to site is
 
-https://lakshmi-narayana-nimmalapudi.on.drv.tw/www.shopmeasy.com/
+https://shopmadeeasy.netlify.app/
 
 The project is hosted through Google drive
